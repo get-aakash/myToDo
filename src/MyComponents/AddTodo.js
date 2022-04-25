@@ -1,4 +1,3 @@
-import { getByTitle } from '@testing-library/react'
 import React, { useState } from 'react'
 
 const AddTodo = ({addTodo}) => {
